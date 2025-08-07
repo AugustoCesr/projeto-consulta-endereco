@@ -1,7 +1,7 @@
 <h1 align="center">Aplicação de consulta de endereço por CEP com geração de arquivo JSON</h1>
 
 <div align="center">
-  <img width="212" height="212" alt="endereco" src="https://github.com/user-attachments/assets/d1004f67-287e-4afb-b623-a46124fce547"/>
+  <img width="162" height="162" alt="endereco" src="https://github.com/user-attachments/assets/d1004f67-287e-4afb-b623-a46124fce547"/>
 </div><br>
 
 Esta aplicação Java realiza a consulta de endereços a partir de CEPs informados pelo usuário, utilizando uma integração com um serviço externo (API de CEP). 

@@ -20,7 +20,7 @@ Após a busca, os dados do endereço são exibidos no console e salvos localment
 - `API pública de CEP - ViaCEP`<br><br>
 ***
 
-<img width="432" height="398" alt="Captura de tela 2025-08-07 180811" src="https://github.com/user-attachments/assets/2bf8b4ed-c681-46d5-be55-c8179235312f" />
-<img width="421" height="498" alt="Captura de tela 2025-08-07 181050" src="https://github.com/user-attachments/assets/90765c30-98c6-4f11-ae39-93bd48a1c9dd" /><br><br>
-<img width="461" height="227" alt="Captura de tela 2025-08-07 181430" src="https://github.com/user-attachments/assets/748d0d15-3379-42fa-8d3a-f7fc80345000" />
-<img width="381" height="258" alt="Captura de tela 2025-08-07 181604" src="https://github.com/user-attachments/assets/d11e1389-17be-4f65-bfd9-839d9d73d6e3" /><br>
+<img width="402" height="368" alt="Captura de tela 2025-08-07 180811" src="https://github.com/user-attachments/assets/2bf8b4ed-c681-46d5-be55-c8179235312f" />
+<img width="391" height="468" alt="Captura de tela 2025-08-07 181050" src="https://github.com/user-attachments/assets/90765c30-98c6-4f11-ae39-93bd48a1c9dd" /><br><br>
+<img width="431" height="197" alt="Captura de tela 2025-08-07 181430" src="https://github.com/user-attachments/assets/748d0d15-3379-42fa-8d3a-f7fc80345000" />
+<img width="351" height="228" alt="Captura de tela 2025-08-07 181604" src="https://github.com/user-attachments/assets/d11e1389-17be-4f65-bfd9-839d9d73d6e3" /><br>

@@ -17,7 +17,7 @@ Após a busca, os dados do endereço são exibidos no console e salvos localment
 ## :computer: Tecnologias e bibliotecas:
 - `Java`
 - `Gson`
-- `API pública de CEP - ViaCEP`<br><br>
+- `API pública de CEP`   [ViaCEP](https://viacep.com.br/)<br><br>
 ***
 
 <img width="402" height="368" alt="Captura de tela 2025-08-07 180811" src="https://github.com/user-attachments/assets/2bf8b4ed-c681-46d5-be55-c8179235312f" />
